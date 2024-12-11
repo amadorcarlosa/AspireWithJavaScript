@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@azure/msal-browser": "^3.27.0",
+    "axios": "^1.7.9",
+    "pinia": "^2.3.0",
+    "vue-router": "^4.5.0"
+  }
+}
