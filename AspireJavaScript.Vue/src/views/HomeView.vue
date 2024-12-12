@@ -27,11 +27,7 @@
       <p class="text-body-2 mb-2 text-center">
         &copy; 2024 Math Tabla. All rights reserved.
       </p>
-      <div class="footer-links">
-        <v-btn variant="text" to="/privacy">Privacy Policy</v-btn> |
-        <v-btn variant="text" to="/terms">Terms of Service</v-btn> |
-        <v-btn variant="text" to="/contact">Contact Us</v-btn>
-      </div>
+     
       <div class="social-icons">
         <v-btn icon="mdi-facebook" color="primary" href="https://facebook.com" />
         <v-btn icon="mdi-twitter" color="primary" href="https://twitter.com" />
