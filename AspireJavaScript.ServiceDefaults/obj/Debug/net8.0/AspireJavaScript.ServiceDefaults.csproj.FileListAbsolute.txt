@@ -22,3 +22,4 @@ C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJav
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\refint\AspireJavaScript.ServiceDefaults.dll
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.pdb
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\ref\AspireJavaScript.ServiceDefaults.dll
+C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.sourcelink.json

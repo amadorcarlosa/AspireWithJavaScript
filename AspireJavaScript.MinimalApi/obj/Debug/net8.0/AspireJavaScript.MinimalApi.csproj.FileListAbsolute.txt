@@ -169,3 +169,4 @@ C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJav
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.MinimalApi\obj\Debug\net8.0\AspireJavaScript.MinimalApi.pdb
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.MinimalApi\obj\Debug\net8.0\AspireJavaScript.MinimalApi.genruntimeconfig.cache
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.MinimalApi\obj\Debug\net8.0\ref\AspireJavaScript.MinimalApi.dll
+C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.MinimalApi\obj\Debug\net8.0\AspireJavaScript.MinimalApi.sourcelink.json

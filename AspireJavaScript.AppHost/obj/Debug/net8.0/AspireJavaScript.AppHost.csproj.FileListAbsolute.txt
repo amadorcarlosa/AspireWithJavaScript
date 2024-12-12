@@ -158,3 +158,4 @@ C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJav
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.AppHost\obj\Debug\net8.0\AspireJavaScript.AppHost.pdb
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.AppHost\obj\Debug\net8.0\AspireJavaScript.AppHost.genruntimeconfig.cache
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.AppHost\obj\Debug\net8.0\ref\AspireJavaScript.AppHost.dll
+C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.AppHost\obj\Debug\net8.0\AspireJavaScript.AppHost.sourcelink.json

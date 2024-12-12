@@ -24,7 +24,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspireJavaScript.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cdc8ee9c34d456125445f4058a5fbf22e677ed3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspireJavaScript.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspireJavaScript.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
