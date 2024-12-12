@@ -15,7 +15,7 @@ export default defineConfig({
   },
   server: {
     host: true,
-    port: 62858, 
+    port: 62858,
     proxy: {
       '/api': {
         target: process.env.services__weatherapi__https__0 || process.env.services__weatherapi__http__0,
