@@ -8,9 +8,10 @@ const { handleRedirect } = msalService()
 
 onMounted(async () => {
   console.log('Auth component mounted')
-  await handleRedirect()
+  var response=   await handleRedirect()
+  console.log(response )
   // Redirect to home after successful login
-  router.push('/')
+ 
 })
 </script>
 

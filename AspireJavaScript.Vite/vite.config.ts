@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => {
     return {
         plugins: [react()],
         server: {
-            port: parseInt(env.VITE_PORT),
+            port: parseInt(env.VITE_PORT) || 62858, 
             proxy: {
                 '/api': {
                     target: process.env.services__weatherapi__https__0 ||
