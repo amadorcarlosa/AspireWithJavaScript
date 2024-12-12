@@ -21,7 +21,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install azd
+      - name: Ins
+
+
+
+
+
+
+
+
+
+
+
+
+
+tall azd
         uses: Azure/setup-azd@v1.0.0
 
       - name: Install .NET Aspire workload
@@ -33,8 +47,7 @@ jobs:
           azd init --no-prompt
         shell: pwsh
 
-      - name: Log in with Azure (Federated Credentials)
-        if: ${{ env.AZURE_CLIENT_ID != "" }}
+      - name: Log in with Azure
         run: |
           azd auth login `
             --client-id "$Env:AZURE_CLIENT_ID" `
@@ -45,7 +58,30 @@ jobs:
       - name: Provision Infrastructure
         run: |
           cd AspireJavaScript.AppHost
-          azd provision --no-prompt
+          azd provision --no-p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rompt
         shell: pwsh
 
       - name: Deploy Application
