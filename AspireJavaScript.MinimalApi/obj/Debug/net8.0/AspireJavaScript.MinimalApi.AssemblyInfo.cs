@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspireJavaScript.MinimalApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c3bbdc63f56ce872eba55f11d698a67c7ec57e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ed7407f8aeeda4cddc7d25b71eba79e87ece0b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspireJavaScript.MinimalApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspireJavaScript.MinimalApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

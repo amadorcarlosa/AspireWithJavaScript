@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class AspireJavaScript_MinimalApi : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.MinimalApi\AspireJavaScript.MinimalApi.csproj""";
+    public string ProjectPath => """C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.MinimalApi\AspireJavaScript.MinimalApi.csproj""";
 }

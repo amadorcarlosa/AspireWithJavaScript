@@ -23,3 +23,16 @@ C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJav
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.pdb
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\ref\AspireJavaScript.ServiceDefaults.dll
 C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.sourcelink.json
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\bin\Debug\net8.0\AspireJavaScript.ServiceDefaults.deps.json
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\bin\Debug\net8.0\AspireJavaScript.ServiceDefaults.dll
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\bin\Debug\net8.0\AspireJavaScript.ServiceDefaults.pdb
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.AssemblyInfo.cs
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.sourcelink.json
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.dll
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\refint\AspireJavaScript.ServiceDefaults.dll
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\AspireJavaScript.ServiceDefaults.pdb
+C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.ServiceDefaults\obj\Debug\net8.0\ref\AspireJavaScript.ServiceDefaults.dll

@@ -8,5 +8,5 @@ namespace Projects;
 public class AspireJavaScript_AppHost
 {
     private AspireJavaScript_AppHost() { }
-    public static string ProjectPath => """C:\Users\amado_ydjnsre\source\repos\amadorcarlosa\AspireWithJavaScript\AspireJavaScript.AppHost""";
+    public static string ProjectPath => """C:\Users\owner\RiderProjects\AspireWithJavaScript\AspireJavaScript.AppHost""";
 }
