@@ -12,11 +12,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  build: {
-    rollupOptions: {
-      external: ['@azure/msal-browser']
-    }
-  },
   server: {
     host: true,
     port: 62858,
